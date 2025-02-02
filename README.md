@@ -43,11 +43,10 @@ Excel file containing the reduced microRNA expression dataset.
 ## 🤝 Contributions
 
 Feel free to contribute by submitting pull requests or reporting issues!
-
-## 📜 License
+## 📜 License 
 
 This project is open-source. See LICENSE for details.
 
-📩 Contact
+## 📩 Contact
 
 For inquiries, contact claudiacastrillon via GitHub. 
